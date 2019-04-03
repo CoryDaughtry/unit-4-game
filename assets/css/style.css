@@ -1,0 +1,44 @@
+*{
+    background-image: url(../images/background.png)
+}
+h1{
+    text-align: left;
+    
+}
+#container {
+    margin-bottom: 20px;
+}
+#random, .result{
+    float: left;
+    width: 200px;
+    height: 100px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    background-color:grey;
+    text-align: center;
+    border: 2px solid grey;
+}
+
+.image{
+    clear: both;
+    width: 420px;
+    height: 100px;
+    background: rgb(4, 240, 240);
+}
+.gemImage{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    margin: 20px 20px 20px 20px;
+}
+h2{
+    color: white;
+}
+.score{
+    width: 420px;
+    background: rgb(4, 240, 240);
+    color:white;
+    border: 1px solid gray;
+    text-align: center;
+}
+
